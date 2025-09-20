@@ -2,8 +2,8 @@
 <details>
 	<summary>Week 0 - Tools Installation and Digital VLSI SoC Design and planning Workflow </summary>
 	
-# Week 0(TASK 1) -  Digital VLSI SoC Design and planning Workflow
-## Digital VLSI SoC Design and Planning Workflow Summary
+# Week 0(TASK 1) - RISC-V SoC Design flow summary
+## RISC-V SoC Design flow Summary
 
 
 In this week0 lecture, we understand a full digital VLSI SoC design flow that begins by compiling high-level C specifications
