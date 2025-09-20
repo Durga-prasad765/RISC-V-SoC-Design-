@@ -1,6 +1,6 @@
 # Durga-prasad765
 <details>
-	<summary>Week 0 - Tools Installation and Digital VLSI SoC Design and planning Workflow </summary>
+	<summary>Week 0 - Tools Installation and  RISC-V SoC Design flow </summary>
 	
 # Week 0(TASK 1) - RISC-V SoC Design flow summary
 ## RISC-V SoC Design flow Summary
