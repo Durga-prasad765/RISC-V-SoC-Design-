@@ -97,3 +97,6 @@ GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
 
 GTKWAVE | Use the -h, --help command line flags to display help.
 ```
+## Join the Discussion
+
+Have questions or ideas? [Click here to join the discussion forum](https://github.com/vsdip/IndiaRiscvTapeoutProgram/discussions/6)
